@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 — but also fixing them just as fast.<br>📚 Currently learning advanced DevOps practices and cloud-native architectures.<br>🎯 Goals: To contribute to impactful projects, master scalable systems, and grow into a lead engineering role.</p>
+<p align="left">✨ Creating bugs since 2020 — but also fixing them just as fast.<br>📚 Currently learning advanced DevOps practices and cloud-native architectures.<br>🎯 Goals: To contribute to impactful projects, master scalable systems, and grow into a lead engineering role.</p>
 
 ###
 
